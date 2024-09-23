@@ -1,0 +1,11 @@
+supervision==0.18.0
+ultralytics
+tqdm
+opencv-python==4.8.0.74
+gdown
+torch
+torchvision
+torchaudio
+super-gradients
+streamlit
+streamlit-drawable-canvas
