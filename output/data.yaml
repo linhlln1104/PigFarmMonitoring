@@ -1,0 +1,6 @@
+names:
+- pig
+nc: 1
+test: C:\Users\Administrator\Desktop\dataset\test
+train: C:\Users\Administrator\Desktop\dataset\train
+val: C:\Users\Administrator\Desktop\dataset\valid
